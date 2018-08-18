@@ -1,0 +1,12 @@
+[submodule "quickstart/themes/tale"]
+	path = quickstart/themes/tale
+	url = https://github.com/EmielH/tale-hugo.git
+[submodule "hugo_blog/themes/ananke"]
+	path = hugo_blog/themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "hugo_blog/themes/hyde-hyde"]
+	path = hugo_blog/themes/hyde-hyde
+	url = https://github.com/htr3n/hyde-hyde.git
+[submodule "hugo_blog/themes/hugo-nuo"]
+	path = hugo_blog/themes/hugo-nuo
+	url = https://github.com/laozhu/hugo-nuo
