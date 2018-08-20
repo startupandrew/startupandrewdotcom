@@ -1,0 +1,7 @@
+{{ partial "header/styles-highlight.html" . }}
+
+{{ $sass := resources.Get "scss/hyde-hyde.scss" }}
+{{ $style := $sass | resources.ToCSS }}
+
+<link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}" media="screen">
+<link rel="stylesheet" href="{{ "css/print.min.css" | relURL }}" media="print">

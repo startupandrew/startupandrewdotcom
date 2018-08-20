@@ -10,3 +10,6 @@
 [submodule "hugo_blog/themes/hugo-nuo"]
 	path = hugo_blog/themes/hugo-nuo
 	url = https://github.com/laozhu/hugo-nuo
+[submodule "hugo_blog/themes/themes/hyde-hyde"]
+	path = hugo_blog/themes/themes/hyde-hyde
+	url = https://github.com/htr3n/hyde-hyde.git

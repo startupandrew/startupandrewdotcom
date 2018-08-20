@@ -6,7 +6,7 @@ theme = "hyde-hyde"
 ## Site Settings
 [params]
     author = "Andrew Lee"
-    description = "This is a description."
+    description = "I'm an entrepreneur (Firebase), philanthropist (mostly Haiti), and gymnast (wherever)"
     authorimage = "/images/andrew.jpg"
     dateformat = "Jan 2, 2006"
     highlightjs = true
@@ -21,11 +21,11 @@ theme = "hyde-hyde"
     twitter = "startupandrew"
 
 ## Main Menu
-[[menu.main]]
-    name = "Posts"
-    weight = 100
-    identifier = "posts"
-    url = "/posts/"
+##[[menu.main]]
+##    name = "Posts"
+##    weight = 100
+##    identifier = "posts"
+##    url = "/posts/"
 [[menu.main]]
     name = "About"
     identifier = "about"
