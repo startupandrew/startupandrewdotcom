@@ -6,12 +6,13 @@ theme = "hyde-hyde"
 ## Site Settings
 [params]
     author = "Andrew Lee"
-    description = "I'm an entrepreneur (Firebase), philanthropist (mostly Haiti), and gymnast (wherever)"
+    description = "Entrepreneur, philanthropist, and gymnast"
     authorimage = "/images/andrew.jpg"
     dateformat = "Jan 2, 2006"
     highlightjs = true
     highlightjsstyle = "github"
     themeColor = "theme-base-0c"
+    GoogleAnalyticsID = "UA-124285775-1"
     # please choose either GraphComment or Disqus
 
 ## Social Accounts
@@ -27,7 +28,7 @@ theme = "hyde-hyde"
 ##    identifier = "posts"
 ##    url = "/posts/"
 [[menu.main]]
-    name = "About"
+    name = "About Me"
     identifier = "about"
     weight = 300
     url = "/about/"
