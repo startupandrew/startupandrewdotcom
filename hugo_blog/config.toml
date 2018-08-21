@@ -1,4 +1,4 @@
-baseURL = "https://startupandrew.com/"
+baseURL = "https://startupandrew.com"
 languageCode = "en-us"
 title = "Andrew's Blog"
 theme = "hyde-hyde"

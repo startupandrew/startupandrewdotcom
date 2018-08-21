@@ -1,6 +1,7 @@
 ---
 title: "My Experiences in the Haitian Earthquake"
 date: 2018-08-21T09:00:00-07:00
+images: ["/images/haiti-embassy-injured.jpg"]
 draft: false
 ---
 
