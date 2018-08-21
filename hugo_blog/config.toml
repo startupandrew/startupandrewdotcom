@@ -6,7 +6,7 @@ theme = "hyde-hyde"
 ## Site Settings
 [params]
     author = "Andrew Lee"
-    description = "Entrepreneur (Firebase), angel investor, and gymnast"
+    description = "Entrepreneur (Firebase), angel investor (many), international developer (mostly Haiti), and gymnast."
     authorimage = "/images/andrew.jpg"
     dateformat = "Jan 2, 2006"
     highlightjs = true
