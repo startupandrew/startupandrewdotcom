@@ -6,7 +6,7 @@
   {{ .Content }}
   <div class="post-list">
     {{ range (where .Data.Pages "Type" "not in" (slice "about" "portfolio")).GroupBy "Section" }}
-    {{ range .Pages.Reverse }}
+    {{ range .Pages }}
       <div class="post-list__item">
         <span class="item__title--big">
           <a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ if .Draft }}<sup> <i class="fas fa-pen-square fa-xs"></i></sup>{{ end }}
