@@ -1,6 +1,7 @@
 ---
 title: "Startups I Want to Fund"
 date: 2018-10-02T09:00:00-07:00
+images: ["/images/andrew.jpg"]
 draft: false
 ---
 
