@@ -183,7 +183,7 @@ The most important aspect of a reference is who they are and how they relate to 
 
 In addition to contacting the references they provided, we also tried to source our own references if our professional networks overlapped. This won’t always be possible, but it can provide a more neutral perspective.
 
-#### Making Your Decision
+# Making Your Decision
 
 We made our hiring decisions as quickly as possible after interviewing a candidate &mdash; usually the same day. This ensured that the interviews and reference checks were fresh in our minds and let us get offers out to candidates quickly, which was a huge competitive advantage when competing against Google, Facebook, etc. for talent.
 
@@ -202,7 +202,9 @@ On average we gave offers to about 40% of the candidates we brought on-site.
 Regardless of what you decide, it’s critical to follow up promptly with candidates after their interview. For candidates you decide to make offers to, it’s important to get them a formal offer letter quickly, to answer their questions, and to try to sell them on the exciting potential of your company. For candidates you decide not to hire, it’s equally important to get back to them promptly with a clear decision and to say “thank you” for their time.
 
 You want every candidate to feel that they were respected and that their time was well-spent, whether or not you decide to make them an offer. If you’re doing a good job here, you’ll find that even many candidates you reject continue to refer their friends to your job openings.
-Conclusion
+
+# Conclusion
+
 We found that this process worked very well for Firebase. In addition to ensuring we selected a high quality team, it also was a positive enough experience that most candidates (about 2/3rds) accepted our offers. I hope my notes here are able to help you improve your own team’s interviewing process.
 
 **I’m hosting a live video Q&A today (9/26/2019), so stop on by [my Twitter](https://twitter.com/startupandrew) at 1 PM Pacific time if you’d like to learn more about interviewing and hiring.**
