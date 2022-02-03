@@ -7,8 +7,8 @@ theme = "hyde-hyde"
 [params]
     author = "Andrew Lee"
     description = '''
-Cofounder of Firebase, angel investor, and gymnast.
-I care about Haiti, digital freedoms, and empowering individuals.
+CEO at Shortwave, angel investor, and gymnast. Formerly cofounder of Firebase.
+Email is amazing and deserves better.
 '''
     authorimage = "/images/andrew.jpg"
     dateformat = "Jan 2, 2006"
