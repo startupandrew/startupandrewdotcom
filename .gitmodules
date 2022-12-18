@@ -1,3 +1,6 @@
 [submodule "hugo_blog/themes/hyde-hyde"]
 	path = hugo_blog/themes/hyde-hyde
 	url = https://github.com/htr3n/hyde-hyde.git
+[submodule "hugo_blog/themes/terminal"]
+	path = hugo_blog/themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git

@@ -1,7 +1,7 @@
 baseURL = "https://startupandrew.com/"
 languageCode = "en-us"
 title = "Andrew's Blog"
-theme = "hyde-hyde"
+theme = "terminal"
 
 ## Site Settings
 [params]
